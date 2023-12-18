@@ -1,13 +1,3 @@
-// Finding even numbers in an array using Array filter() method
-// let array = [2, 3, 4, 5, 10];
-
-// const findEvenInArray = (value) => {
-//     return value % 2 === 0;
-// }
-
-// const evenNumbers = array.filter(findEvenInArray);
-// console.log(evenNumbers);
-
 class Account {
     constructor(balance) {
         this.balance = balance;
@@ -33,13 +23,9 @@ class Account {
     }
 }
 
-// Example usage:
 const myAccount = new Account(10000); // Creating an account with an initial balance of 10000
 console.log(myAccount.getBalance()); // Output: 10000
 
 myAccount.debit(1000); // Output: Insufficient balance
 myAccount.credit(1000); // Output: 1000 credited
 console.log("Current balance is", myAccount.getBalance()); // Output: Current balance is 11000
-
-
-
