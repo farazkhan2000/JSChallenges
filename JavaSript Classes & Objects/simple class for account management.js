@@ -1,3 +1,5 @@
+// Create a class for maintaining acount balance
+
 class Account {
     constructor(balance) {
         this.balance = balance;

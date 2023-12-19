@@ -11,8 +11,8 @@ let maxNumber = 0;
 // }
 
 for (let i of array) {
-    if (array[i] > maxNumber) {
-        maxNumber = array[i];
+    if (i > maxNumber) {
+        maxNumber = i;
     }
 }
 
