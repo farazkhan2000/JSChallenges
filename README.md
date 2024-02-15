@@ -12,8 +12,8 @@ The primary goal of this repository is to provide a platform for JavaScript enth
 - **Detailed Explanations**: Gain insights into the thought process and logic behind each solution with detailed explanations provided alongside the code.
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/your-username/JS-Challenges.git`
-2. Navigate to the project directory: `cd JS-Challenges`
+1. Clone the repository: `git clone https://github.com/farazkhan2000/JSChallenges.git`
+2. Navigate to the project directory: `cd JSChallenges`
 3. Explore the `problems` directory containing individual JavaScript problem files.
 4. Choose a problem you want to solve and open its corresponding file.
 5. Implement your solution in the designated section of the file.
